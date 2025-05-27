@@ -1,6 +1,6 @@
 # QRIS WebView Integration Guide (Flutter)
 
-This guide explains how to embed a **WebView** in a Flutter application using the [`flutter_inappwebview`](https://pub.dev/packages/flutter_inappwebview) package. It includes instructions for handling camera and microphone permissions, loading a remote URL, and injecting JavaScript.
+This guide explains how to embed a **WebView** in a Flutter application using the [`flutter_inappwebview`](https://pub.dev/packages/flutter_inappwebview) package. It includes instructions for handling camera and loading a remote URL.
 
 ---
 
